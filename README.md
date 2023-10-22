@@ -1,4 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maryam Kermanshahani============================================================================================================================================Computer Engineering Student----------------------------I am a B.Sc computer engineering student at Amirkabir University of Technology. I have a strong passion for learning. I am interested in Web, Application, and Game development (especially front-end part)* 🌍  I'm based in Tehran, Iran* ✉️  You can contact me at [maryam.kermanshahani1379@gmail.com](mailto:maryam.kermanshahani1379@gmail.com)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maryam Kermanshahani
+============================================================================================================================================
+Computer Engineering Student
+----------------------------
+I am a B.Sc computer engineering student at Amirkabir University of Technology. I have a strong passion for learning. I am interested in Web, Application, and Game development (especially front-end part)* 🌍  I'm based in Tehran, Iran* ✉️  You can contact me at [maryam.kermanshahani1379@gmail.com](mailto:maryam.kermanshahani1379@gmail.com)
 
 <a href="https://www.github.com/maryam-kermanshahani2001" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/maryam-kermanshahani2001?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
