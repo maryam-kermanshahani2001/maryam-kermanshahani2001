@@ -4,7 +4,7 @@ Computer Engineering Student
 ----------------------------
 I am a B.Sc computer engineering student at Amirkabir University of Technology. I have a strong passion for learning. I am interested in Web, Application (especially front-end part), and Game development. <br>
 🌍  I'm based in Tehran, Iran <br>
-✉️  You can contact me at [maryam.kermanshahani1379@gmail.com](mailto:maryam.kermanshahani6079@gmail.com)
+✉️  You can contact me at [maryam.kermanshahani6079@gmail.com](mailto:maryam.kermanshahani6079@gmail.com)
 
 <a href="https://www.github.com/maryam-kermanshahani2001" target="_blank" rel="noreferrer">
 
